@@ -86,3 +86,11 @@ img {
   color: #907B6E;
   text-transform: uppercase;
 }
+footer {
+  height: 60px;
+  background-color: #F7F7F7;
+  text-align: center;
+  align-items: center;
+  padding-top: 20px;
+  width: 100%;
+}
