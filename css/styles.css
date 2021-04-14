@@ -1,0 +1,75 @@
+.fs12 {
+  font-size: 12px;
+}
+.fs14 {
+  font-size: 14px;
+}
+.fs16 {
+  font-size: 16px;
+}
+.fs18 {
+  font-size: 18px;
+}
+.fs20 {
+  font-size: 20px;
+}
+.fs22 {
+  font-size: 22px;
+}
+.text-danger {
+  color: red;
+}
+.text-warning {
+  color: yellow;
+}
+.text-success {
+  color: green;
+}
+.text-primary {
+  color: blue;
+}
+.input-border {
+  border: 2px solid blue;
+  border-radius: 4px;
+}
+.green-background {
+  background-color: green;
+}
+.red-background {
+  background-color: red;
+}
+.yellow-background {
+  background-color: yellow;
+}
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+.light-mode {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+.dark-mode:hover {
+  color: white;
+}
+.dark-background {
+  background-color: black;
+  color: white;
+}
+.light-background {
+  background-color: white;
+  color: black;
+}
+#switch {
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.container {
+  text-align: justify;
+  margin-top: 20px;
+}
+body {
+
+}
