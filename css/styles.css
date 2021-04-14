@@ -32,15 +32,6 @@
   border: 2px solid blue;
   border-radius: 4px;
 }
-.green-background {
-  background-color: green;
-}
-.red-background {
-  background-color: red;
-}
-.yellow-background {
-  background-color: yellow;
-}
 .dark-mode {
   background-color: black;
   color: white;
@@ -70,6 +61,6 @@
   text-align: justify;
   margin-top: 20px;
 }
-body {
-
+img {
+  border-radius: 6px;
 }
