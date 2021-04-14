@@ -9,6 +9,7 @@ $(document).ready(function() {
   $("button#dark").click(function() {
     $("body").removeClass();
     $("body").addClass("dark-background");
+    $("footer,.header").addClass("dark-theme");
     $("button#dark").hide();
     $("button#light").show();
   });
