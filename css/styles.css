@@ -64,3 +64,25 @@
 img {
   border-radius: 6px;
 }
+.header{
+  height: 120px;
+  padding-bottom: 10px;
+  margin-top: 40px;
+  list-style-type: none;
+  overflow: hidden;
+  border-radius: 8px;
+  padding-top: 20px;
+  background-color: #F7F7F7;
+}
+#logo {
+  height: 80px;
+}
+#menu ul {
+  list-style: none;
+  padding-top: 30px;
+}
+#menu ul li a {
+  text-decoration: none;
+  color: #907B6E;
+  text-transform: uppercase;
+}
