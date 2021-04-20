@@ -5,6 +5,8 @@ $(document).ready(function() {
     $("body").addClass("light-background");
     $("button#dark").show();
     $("button#light").hide();
+    $("footer,.header").removeClass("dark-theme");
+
   });
   $("button#dark").click(function() {
     $("body").removeClass();
